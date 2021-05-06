@@ -70,7 +70,7 @@ li{
  	display: inline-block;
  	text-align: center;
  	width:21vw;
- 	height:28vw;
+ 	height:60vh;
  	margin  : 3vw;
  	 
 background-color: #404040;
@@ -80,7 +80,7 @@ border-radius:2vw;
  .kartya2{
 display: block;
  padding: 0 1vw 1vh 1vw;
- 	width:65vw;
+ 	width:70vw;
  	height:33vh;
  	margin  : 3vw;
  	border: 1vw solid #990000;
