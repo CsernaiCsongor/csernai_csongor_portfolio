@@ -1,0 +1,118 @@
+
+body{
+	background-color:#202020;
+}
+
+ 
+
+main{
+	font-size: 1.5vw;
+font-family: "Copperplate", Fantasy;
+	padding:2vw;
+	margin:2vw;
+	width: 90vw;
+	height:100vh;
+	 background-color: #404040; 
+  border: 1vw double #990000;
+  border-radius: 2vw;
+}
+
+ 
+
+footer{
+padding-left: 5vw;
+	background-color:#990000;
+	font-size: 2vw;
+font-family: "Copperplate", Fantasy;
+border: outset black;
+}
+
+
+header{
+display: inline-block;
+}
+
+
+
+h1{
+	padding:1vw;
+font-size: 4vw;
+font-family: "Copperplate", Fantasy;
+color: #990000;
+border: 2px solid #990000;
+  border-radius: 1vw;
+}
+
+h2{	 
+font-size: 3vw;
+font-family: "Copperplate", Fantasy;
+border-style:none none solid none;
+}
+h3{
+	 
+font-size: 2vw;
+font-family: "Copperplate", Fantasy;
+ border-style:none none solid none;
+}
+
+
+
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+ 
+
+ .kartya{
+ 	
+ 	display: inline-block;
+ 	text-align: center;
+ 	width:21vw;
+ 	height:28vw;
+ 	margin  : 3vw;
+ 	 
+background-color: #404040;
+border: 1vw solid #990000;
+border-radius:2vw; 
+ }
+ .kartya2{
+display: block;
+ padding: 0 1vw 1vh 1vw;
+ 	width:65vw;
+ 	height:33vh;
+ 	margin  : 3vw;
+ 	border: 1vw solid #990000;
+border-radius:2vw; 
+ }
+
+
+
+ img{
+
+ 	 border: 0.35vw solid black;
+ 	float:left;
+ 	height: 23vh
+ }
+ img:hover{
+ 	transform: scale(1.5);
+ 	 
+ 	cursor:pointer;	 
+ }
+
+
+
+ .Menüpont{
+display:inline-block;
+	font-size: 1.8vw;
+font-family: "Copperplate", Fantasy;
+
+	padding-left:4vw;
+	 color: white;
+ }
+
+ .Menüpont:hover{
+ 	cursor:pointer;
+ 	color:#990000;
+ }
